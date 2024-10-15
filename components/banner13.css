@@ -1,0 +1,32 @@
+.banner13-container1 {
+  gap: var(--dl-space-space-unit);
+  display: flex;
+  position: relative;
+  align-items: center;
+}
+.banner13-max-width {
+  gap: var(--dl-space-space-oneandhalfunits);
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+.banner13-container2 {
+  gap: var(--dl-space-space-halfunit);
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+.banner13-fragment1 {
+  display: contents;
+}
+.banner13-text2 {
+  display: inline-block;
+  text-align: center;
+}
+.banner13-fragment2 {
+  display: contents;
+}
+.banner13-text3 {
+  display: inline-block;
+  text-align: center;
+}
